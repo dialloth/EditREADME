@@ -63,6 +63,6 @@ Exemple de commande sur le terminal : php artisan migrate et php artisan make:
 **Le clic sur le titre d’un article vous renvoie sur la page complète de l’article. Et en bas de chaque article, vous avez la possibilité de laisser un commentaire**
 
                4- La page contact:
-**Une page contact permet aux visiteurs du site de contacter nous contacter. Et une fois le message soumis, va s’afficher la liste de toutes les personnes qui nous ont déjà écrit. ***
+Une page contact permet aux visiteurs du site de contacter nous contacter. Et une fois le message soumis, va s’afficher la liste de toutes les personnes qui nous ont déjà écrit. 
 
 A rappeler que chacune des actions d’un utilisateur constitue un enregistrement de plus dans notre BD du blog. Par exemple, si quelqu’un nous soumet un message à travers le formulaire de contact, son nom, adresse mail et message s’enregistrent automatiquement sur notre Bases de données.
