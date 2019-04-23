@@ -30,7 +30,7 @@ Afin de personnaliser et dynamiser notre blog, nous avons réalisé quelques imp
 
 - Création d’une base de données phpLiteAdmin à l’aide des migrations de Laravel :
  https://laravel.com/docs/5.7/migrations pour créer puis configurer les tables de notre base de données : articles(post),  contacts et  utilisateurs. 
-Exemple de commande sur le terminal : php artisan migrate & php artisan make:migration create_contact_table –create=contact.
+Exemple de commande sur le terminal : php artisan migrate et php artisan make:migration create_contact_table –create=contact.
 
 - Création des fichiers Seeding pour insérer des données fictives dans la BD et tester sa connexion avec le blog:
   https://laravel.com/docs/4.2/migrations 
